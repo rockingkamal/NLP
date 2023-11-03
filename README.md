@@ -1,2 +1,2 @@
-# NLP
+# NATURAL LANGUAGE PROCESSING
 Basic to advanced NLP
